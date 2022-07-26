@@ -1,1 +1,1 @@
-txt1
+first line in main txt1.txt
