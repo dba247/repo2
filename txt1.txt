@@ -1,1 +1,3 @@
 first line in class1 branch txt1.txt
+line 2
+line 3
